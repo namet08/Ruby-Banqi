@@ -1,0 +1,6 @@
+[caps]
+automationName = "UIAutomator2"
+platformName = "Android"
+deviceName = "Pixel"
+app = "/home/julio/Android/Ruby-Banqi/app/app-release.apk"
+
