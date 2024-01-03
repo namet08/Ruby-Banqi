@@ -3,9 +3,6 @@ Before do
   driver.manage.timeouts.implicit_wait = 15
 end
 
-
-
-
 After do |scenario|
   binary_shot = driver.screenshot_as(:base64)
 
